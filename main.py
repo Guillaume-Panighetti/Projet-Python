@@ -1,5 +1,5 @@
 """
-@author by Guillaume Panighetti
+@author by Guillaume Panighetti et Islam Mokrani
 """
 
 import pickle
